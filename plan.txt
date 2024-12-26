@@ -1,0 +1,9 @@
+
+
+to create a 3D card we have to create
+ -card front 
+ -card back
+
+ we will use transform property of css to rotate the card 180 degree when hovered
+ 
+ 
